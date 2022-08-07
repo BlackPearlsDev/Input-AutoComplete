@@ -1,2 +1,2 @@
 # Input-AutoComplete
-An complete input search by using a array
+An auto-completion system via elements of an array
